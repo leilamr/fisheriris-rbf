@@ -15,7 +15,6 @@ Average accuracy = 97.733%
 
 #### Cross-validation
 With the same configurations as the previous network, the K-Fold cross validation technique was implemented.
-
 Considering K = 10.
 Average accuracy obtained = 97.3%
 
